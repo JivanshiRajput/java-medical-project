@@ -12,19 +12,19 @@ This system allows adding medicines, updating stock, deleting items, viewing exp
 Below are the main screenshots of the MediStock Pharmacy System.
 
 ### 🖼️ 1. Add New Medicine
-![Add New Medicine](photos/1.png)
+![Add New Medicine](1.png)
 
 ### 🖼️ 2. View Inventory
-![View Inventory](photos/2.png)
+![View Inventory](2.png)
 
 ### 🖼️ 3. Sell Medicine
-![Sell Medicine](photos/3.png)
+![Sell Medicine](3.png)
 
 ### 🖼️ 4. Check Expiry Dates
-![Expiry Dates](photos/4.png)
+![Expiry Dates](4.png)
 
 ### 🖼️ 5. Exit & Save Message
-![Exit Message](photos/5.png)
+![Exit Message](5.png)
 
 
 
@@ -51,3 +51,4 @@ Remove a medicine using its batch number.
 Shows medicines whose expiry date is past the current date.
 
 ---
+
