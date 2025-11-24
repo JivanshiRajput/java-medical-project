@@ -1,0 +1,2 @@
+Name: Paracetamol     | Batch: B101       | Price: $5.00   | Qty: 100  | Exp: 2026-12-31
+Name: CoughSyrup      | Batch: C992       | Price: $12.50  | Qty: 20   | Exp: 2023-01-01
